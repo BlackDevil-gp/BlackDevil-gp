@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gregorys Papatheodosiadis
-- 🌱 I’m currently learning PHP, CSS, HTML, JS, SQL
+- 👋 Hi, I’m Gregorys Papatheodosiadis.
+- 🌱 I’m currently learning PHP, CSS, HTML, JS, SQL with Laravel.
 - 📫 How to reach me ... gregorysp16@hotmail.com
 
 <!---
