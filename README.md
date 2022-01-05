@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gregorys Papatheodosiadis.
-- 🌱 I’m currently learning PHP, CSS, HTML, JS, SQL with Laravel.
-- 📫 How to reach me ... gregorysp16@hotmail.com
+- 🌱 I’m Junior Developer and currently learning PHP, CSS, HTML, JS, SQL with Laravel.
+- 📫 How to reach me ... gregoryspapatheodosiadis@gmail.com
 
 <!---
 BlackDevil-gp/BlackDevil-gp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
