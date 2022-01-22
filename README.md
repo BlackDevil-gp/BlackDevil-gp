@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gregorys Papatheodosiadis.
-- 🌱 I’m Junior Developer and currently learning PHP, CSS, HTML, JS, SQL with Laravel.
+- 🌱 I’m Junior Developer and currently learning PHP, CSS, HTML, JavaScript, React, MySQL with Laravel.
 - 📫 How to reach me ... gregoryspapatheodosiadis@gmail.com
+- More about me at www.bugsinsite.com
 
 <!---
 BlackDevil-gp/BlackDevil-gp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
